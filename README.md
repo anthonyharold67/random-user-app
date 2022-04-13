@@ -4,16 +4,12 @@
 
 Project aims to create a Random User App.
 
-## Problem Statement
-
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
-
 ## Project Skeleton
 
 ```
-004 - Random User App (folder)
+Random User App 
 |
-|----readme.md         # Given to the students (Definition of the project)
+|----readme.md         
 SOLUTION
 ├── public
 │     └── index.html
@@ -32,7 +28,7 @@ SOLUTION
 ├── package.json
 ```
 
-## Expected Outcome
+
 
 ![Random User App](random-user.gif)
 
